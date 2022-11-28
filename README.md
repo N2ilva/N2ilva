@@ -1,0 +1,11 @@
+- 👋 Hi, I'm Natanael Silva
+- 👀 I'm interested in learning more
+- 🌱 I am currently learning the main languages in programming
+- 💞️ I'm looking to collaborate with the knowledge I'm having in this learning process
+- 📫 How to contact me natanaelsantos_silva@outlook.com
+
+- A little about my current activity:
+- I am currently studying Computer Science, second year at Universidade Estacio in Goiania - Brazil.
+- Recently bought courses in the main languages currently on Udemy, Python, C/C++, JavaScript and C#.
+- In the future I intend to buy more courses to find out which language I have more facilities in.
+- As a hobby I practice sport (Cycling) and play and record songs in my home studio.
